@@ -1,4 +1,4 @@
-# vue-template README
+# vue-template
 
 Generate code template for vue project
 
