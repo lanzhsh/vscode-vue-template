@@ -1,0 +1,10 @@
+import { postRequest, getRequest } from '../utils/request'
+
+/**
+ *  demo
+ * @param {}
+ */
+export function formList(params) {
+  const url = `/dispense/application/form/list`
+  return postRequest(url, params)
+}
