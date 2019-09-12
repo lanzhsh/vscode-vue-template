@@ -1,15 +1,13 @@
-# react-template README
+# vue-template README
 
-Generate code template for react project
+Generate code template for vue project
 
 ## Features
 
-Generate functional component & pure component
+Create Page & Create Api Page
 
 ## Instruction
-
-- In the file explorer, right click on the folder that you want the new component placed in
-- Select `Create Functional Component` or `Create Pure Component`
+- Vscode app store installed vue-template
+- In the file explorer, right click on the folder that you want the new page placed in
+- Select `Create Page` or `Create Api Page`
 - Input the component name
-- The according file templates will be generated for you
-- This git command will be generated too: `git add .` 
